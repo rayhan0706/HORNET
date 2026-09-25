@@ -1,0 +1,325 @@
+{
+  "name": "Abyssal Descent",
+  "description": "A moody, high-contrast dark mode experience. Deep navy and shadow backgrounds let sharp red accents and bright white iconography cut through the darkness.",
+  "version": "1.0",
+  "authors": [
+    {
+      "name": "Rexiê愛~",
+      "id": "1198310950789451879"
+    }
+  ],
+  "semanticColors": {
+    "ANDROID_RIPPLE": [
+      "#040608"
+    ],
+    "CONTEXT_MENU_BACKDROP_BACKGROUND": [
+      "#040608"
+    ],
+    "CHAT_BACKGROUND": [
+      "#0D131A"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#2D3A47",
+      "#2D3A47"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#0D131A",
+      "#0D131A"
+    ],
+    "BACKGROUND_MENTIONED": [
+      "#82333D40"
+    ],
+    "FORUM_POST_TAG_BACKGROUND": [
+      "#2D3A47"
+    ],
+    "BACKGROUND_MENTIONED_HOVER": [
+      "#040608"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#2D3A47"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "#040608"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#2D3A47"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "#040608"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#2D3A47CC"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+      "#0D131A"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": [
+      "#040608"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#E8E9EB",
+      "#E8E9EB"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#040608"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#0D131A",
+      "#0D131A"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#0D131A"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#040608"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#2D3A47",
+      "#2D3A47"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#2D3A47",
+      "#2D3A47"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#2D3A47",
+      "#2D3A47"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#2D3A47",
+      "#2D3A47"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#0D131A",
+      "#0D131A"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#2D3A47",
+      "#2D3A47"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#040608",
+      "#040608"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#040608",
+      "#040608"
+    ],
+    "BG_BASE_PRIMARY": [
+      "#0D131A"
+    ],
+    "BG_BASE_SECONDARY": [
+      "#040608"
+    ],
+    "BG_BASE_TERTIARY": [
+      "#040608"
+    ],
+    "BG_BACKDROP": [
+      "#04060870",
+      "#040608"
+    ],
+    "HOME_BACKGROUND": [
+      "#0D131A"
+    ],
+    "BORDER_FAINT": [
+      "#2D3A47"
+    ],
+    "BORDER_STRONG": [
+      "#2D3A47"
+    ],
+    "BORDER_SUBTLE": [
+      "#2D3A47"
+    ],
+    "CARD_SECONDARY_BG": [
+      "#040608"
+    ],
+    "CARD_PRIMARY_BG": [
+      "#2D3A47"
+    ],
+    "CHANNEL_ICON": [
+      "#E8E9EB",
+      "#E8E9EB"
+    ],
+    "EMBED_BACKGROUND": [
+      "#040608"
+    ],
+    "HEADER_PRIMARY": [
+      "#E8E9EB"
+    ],
+    "HEADER_SECONDARY": [
+      "#E8E9EB"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#E8E9EB"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#E8E9EB"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#2D3A47"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#E8E9EB"
+    ],
+    "MENTION_BACKGROUND": [
+      "#82333D40"
+    ],
+    "MENTION_FOREGROUND": [
+      "#E8E9EB"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
+      "#2D3A47"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#2D3A47"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BORDER": [
+      "#040608"
+    ],
+    "REDESIGN_BUTTON_DANGER_BACKGROUND": [
+      "#82333D"
+    ],
+    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+      "#E8E9EB",
+      "#E8E9EB"
+    ],
+    "REDESIGN_CHANNEL_NAME_TEXT": [
+      "#E8E9EB",
+      "#E8E9EB"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#2D3A47CC"
+    ],
+    "SPOILER_HIDDEN_BACKGROUND": [
+      "#040608"
+    ],
+    "STATUS_DANGER": [
+      "#82333D"
+    ],
+    "STATUS_DANGER_BACKGROUND": [
+      "#82333D"
+    ],
+    "STATUS_DANGER_TEXT": [
+      "#E8E9EB"
+    ],
+    "POLLS_NORMAL_FILL_HOVER": [
+      "#2D3A47"
+    ],
+    "POLLS_NORMAL_IMAGE_BACKGROUND": [
+      "#0D131A"
+    ],
+    "POLLS_VICTOR_FILL": [
+      "#82333D"
+    ],
+    "TEXT_LINK": [
+      "#82333D"
+    ],
+    "TEXT_MUTED": [
+      "#2D3A47"
+    ],
+    "TEXT_NORMAL": [
+      "#E8E9EB"
+    ],
+    "TEXT_PRIMARY": [
+      "#E8E9EB"
+    ],
+    "TEXT_SECONDARY": [
+      "#E8E9EB"
+    ],
+    "KEYBOARD": [
+      "#040608"
+    ],
+    "PANEL_BG": [
+      "#040608"
+    ],
+    "BACKGROUND_BASE_LOWEST": [
+      "#040608"
+    ]
+  },
+  "rawColors": {
+    "BLACK_500": "#04060850",
+    "BRAND_260": "#E8E9EB",
+    "BRAND_360": "#E8E9EB",
+    "BRAND_560": "#040608",
+    "BRAND_500": "#82333D",
+    "ORANGE_260": "#E8E9EB",
+    "ORANGE_300": "#E8E9EB",
+    "ORANGE_330": "#E8E9EB",
+    "ORANGE_345": "#E8E9EB",
+    "ORANGE_360": "#E8E9EB",
+    "ORANGE_400": "#E8E9EB",
+    "ORANGE_430": "#E8E9EB",
+    "ORANGE_460": "#E8E9EB",
+    "ORANGE_500": "#E8E9EB",
+    "ORANGE_530": "#E8E9EB",
+    "ORANGE_560": "#E8E9EB",
+    "ORANGE_600": "#E8E9EB",
+    "ORANGE_630": "#E8E9EB",
+    "ORANGE_660": "#E8E9EB",
+    "ORANGE_700": "#E8E9EB",
+    "YELLOW_260": "#E8E9EB",
+    "YELLOW_300": "#E8E9EB",
+    "YELLOW_330": "#E8E9EB",
+    "YELLOW_345": "#E8E9EB",
+    "YELLOW_360": "#E8E9EB",
+    "YELLOW_400": "#E8E9EB",
+    "YELLOW_430": "#E8E9EB",
+    "YELLOW_460": "#E8E9EB",
+    "YELLOW_500": "#E8E9EB",
+    "YELLOW_530": "#E8E9EB",
+    "YELLOW_560": "#E8E9EB",
+    "YELLOW_600": "#E8E9EB",
+    "YELLOW_630": "#E8E9EB",
+    "YELLOW_660": "#E8E9EB",
+    "YELLOW_700": "#E8E9EB",
+    "RED_430": "#82333D",
+    "PLUM_14": "#040608",
+    "PRIMARY_800": "#040608",
+    "PLUM_1": "#E8E9EB",
+    "PLUM_22": "#040608",
+    "PRIMARY_660": "#0D131A",
+    "PRIMARY_700": "#0D131A",
+    "PRIMARY_560": "#0D131A",
+    "PRIMARY_600": "#0D131A",
+    "PRIMARY_630": "#0D131A",
+    "PLUM_15": "#040608",
+    "PLUM_17": "#040608",
+    "PLUM_18": "#040608",
+    "PLUM_19": "#040608",
+    "PLUM_20": "#040608",
+    "PLUM_23": "#040608",
+    "PLUM_24": "#040608"
+  },
+  "fonts": {
+    "ABCGintoNord-ExtraBold": "https://github.com/rayhan0706/Silksong-FONT-V2/raw/refs/heads/main/Perpetua-Bold.ttf",
+    "ggsans-Bold": "https://github.com/rayhan0706/Silksong-FONT-V2/raw/refs/heads/main/Perpetua-Bold.ttf",
+    "ggsans-BoldItalic": "https://github.com/rayhan0706/Silksong-FONT-V2/raw/refs/heads/main/Perpetua-Bold.ttf",
+    "ggsans-ExtraBold": "https://github.com/rayhan0706/Silksong-FONT-V2/raw/refs/heads/main/Perpetua-Bold.ttf",
+    "ggsans-ExtraBoldItalic": "https://github.com/rayhan0706/Silksong-FONT-V2/raw/refs/heads/main/Perpetua-Bold.ttf",
+    "ggsans-Medium": "https://github.com/rayhan0706/Silksong-FONT-V2/raw/refs/heads/main/Perpetua-Bold.ttf",
+    "ggsans-MediumItalic": "https://github.com/rayhan0706/Silksong-FONT-V2/raw/refs/heads/main/Perpetua-Bold.ttf",
+    "ggsans-Normal": "https://github.com/rayhan0706/Silksong-FONT-V2/raw/refs/heads/main/Perpetua-Bold.ttf",
+    "ggsans-NormalItalic": "https://github.com/rayhan0706/Silksong-FONT-V2/raw/refs/heads/main/Perpetua-Bold.ttf",
+    "ggsans-Semibold": "https://github.com/rayhan0706/Silksong-FONT-V2/raw/refs/heads/main/Perpetua-Bold.ttf",
+    "ggsans-SemiboldItalic": "https://github.com/rayhan0706/Silksong-FONT-V2/raw/refs/heads/main/Perpetua-Bold.ttf",
+    "NotoSans-Bold": "https://github.com/rayhan0706/Silksong-FONT-V2/raw/refs/heads/main/Perpetua-Bold.ttf",
+    "NotoSans-ExtraBold": "https://github.com/rayhan0706/Silksong-FONT-V2/raw/refs/heads/main/Perpetua-Bold.ttf",
+    "NotoSans-Medium": "https://github.com/rayhan0706/Silksong-FONT-V2/raw/refs/heads/main/Perpetua-Bold.ttf",
+    "NotoSans-Normal": "https://github.com/rayhan0706/Silksong-FONT-V2/raw/refs/heads/main/Perpetua-Bold.ttf",
+    "NotoSans-NormalItalic": "https://github.com/rayhan0706/Silksong-FONT-V2/raw/refs/heads/main/Perpetua-Bold.ttf",
+    "NotoSans-Semibold": "https://github.com/rayhan0706/Silksong-FONT-V2/raw/refs/heads/main/Perpetua-Bold.ttf",
+    "SourceCodePro-Semibold": "https://github.com/rayhan0706/Silksong-FONT-V2/raw/refs/heads/main/Perpetua-Bold.ttf"
+  },
+  "plus": {
+    "version": 0,
+    "iconpack": "rosiecord-plumpy",
+    "mentionLineColor": "#82333D",
+    "customOverlays": true
+  },
+  "spec": 2,
+  "background": {
+    "url": "https://raw.githubusercontent.com/rayhan0706/HORNET/refs/heads/main/hornet%20last%20dive.jpeg",
+    "alpha": 0.27,
+    "blur": 0
+  }
+}
